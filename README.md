@@ -14,3 +14,6 @@
 
 [前端全链路性能优化实战](./geektime/前端全链路性能优化实战.jpeg)
 
+[深入剖析Kubernetes](./geektime/深入剖析Kubernetes.jpeg)
+
+[后端存储实战课](./geektime/后端存储实战课.jpg)
