@@ -19,3 +19,5 @@
 [后端存储实战课](./geektime/后端存储实战课.jpg)
 
 [图解 Google V8](./geektime/图解GoogleV8.jpg)
+
+[程序员的数学基础课](./geektime/程序员的数学基础课.jpg)
